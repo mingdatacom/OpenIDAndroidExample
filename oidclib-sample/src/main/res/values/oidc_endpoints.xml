@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Stores OpenID Connect provider endpoints. -->
+<resources>
+    <string name="op_authorizationEnpoint">http://192.168.1.21:8008/openid-connect-server-webapp/authorize</string>
+    <string name="op_tokenEndpoint">http://192.168.1.21:8008/openid-connect-server-webapp/token</string>
+    <string name="op_userInfoEndpoint">http://192.168.1.21:8008/openid-connect-server-webapp/userinfo</string>
+    <string name="op_revocationEndpoint">http://192.168.1.21:8008/openid-connect-server-webapp/revoketoken</string>
+</resources>
